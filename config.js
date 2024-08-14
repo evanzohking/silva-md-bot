@@ -6,8 +6,8 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '254743706010', process.env.OWNER_NAME || '𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓', true],
-  ['254700143167', '𝐒𝐈𝐋𝐕𝐀 𝐌𝐃', true]
+  [process.env.OWNER_NUMBER || '254792784897', process.env.OWNER_NAME || '𝐒𝐈𝐋𝐕𝐀 𝐌𝐃 𝐁𝐎𝐓', true],
+  ['254792784897', '𝐒𝐈𝐋𝐕𝐀 𝐌𝐃', true]
 ]
 global.mods = []
 global.prems = []
@@ -55,10 +55,10 @@ global.getQrWeb = 0
 global.renderHost = 0
 global.replitHost = 0
 
-global.pairingNumber = "254743706010" //put your bot number here
+global.pairingNumber = "254792784897" //put your bot number here
 
 global.mods = ['254743706010','254700143167']
-global.prems = ['254700143167','254743706010']
+global.prems = ['254792784897','254743706010']
 global.allowed = ['254743706010','254700143167']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
